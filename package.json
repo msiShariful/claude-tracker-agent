@@ -1,0 +1,13 @@
+{
+  "name": "claude-tracker-agent",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node agent.js",
+    "install-daemon": "pm2 start agent.js --name claude-tracker-agent"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}

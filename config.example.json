@@ -1,0 +1,7 @@
+{
+  "tracker_url": "https://your-tracker-server.com",
+  "api_key": "change-me-secret",
+  "device_id": "sharif-macbook-m4",
+  "device_name": "Sharif MacBook M4",
+  "sync_interval_minutes": 5
+}

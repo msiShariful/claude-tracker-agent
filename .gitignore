@@ -1,0 +1,4 @@
+/node_modules
+config.json
+.last-sync-state.json
+.DS_Store
